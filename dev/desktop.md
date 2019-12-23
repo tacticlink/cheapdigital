@@ -50,4 +50,4 @@ You will find 3 options on Pi's download site, the image with desktop and sofwar
 
 	install applications as much as you like.
 
-Thus a desktop computer ready to use, it include an SSH Terminal, and a web browser , and a desktop environment whether it is a lxde or Pi customed desktop.
+Thus a desktop computer ready to use, it includes an SSH Terminal, and a web browser , and a desktop environment whether it is a lxde or Pi customed desktop.
