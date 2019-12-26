@@ -2,7 +2,7 @@ We recommand Linux, Raspbain, as we used in our work, as your desktop. Being a d
 
 First check up your requiment,
 
-- You need a mornitor and a cable betwwen Pi board and monitor.
+- You need a mornitor and a cable betwwen Pi board and the monitor.
 
 - Your Power Supply should meet the Pi specifcation, Pi offcial documents recommand an USB Power Supply > 2.5A. See https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md
 
