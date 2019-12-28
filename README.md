@@ -15,7 +15,7 @@ As a developer, you need to work localy before you delivery your work to your cu
 
 ### Structure
 
-You need to [decide your business go cloud or not.]()
+You need to [decide whether your business go cloud or not.]()
 
 First we need to create a cloud account, requirments vary accourding to different cloud venders,the underlying component for our application is Linux Operating Systems, it is mostly same, the main factor is price. The main cloud vendors is our choices.
 
