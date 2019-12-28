@@ -23,6 +23,6 @@ The main cloud vendor option list AWS,Google Cloud, Digitalocean, Linode.
 
 After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating System,then install docker inside, pull Odoo image, run Odoo container,that is it.
 
-[The Cloud Vendor guide]
+[The Cloud Vendor guide]()
 
 [The Steps towards to an Odoo application.]()
