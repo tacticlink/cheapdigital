@@ -6,9 +6,13 @@ I follow the tutorials:
 
 http://valleycat.org/linux/arch-usb.html
 
+#### In case, you want to use it as Desktop
+
 If you want to install LXDE desktop environment, follow the tutorials: http://ftp.labdoo.org/download/Public/manuals/wiki.lxde.org/en/Installation.html
 
 Install applications refer to the selections of ubuntu linux, select applications whenever you need. I choose unzip,gedit,firefox.
+
+#### Steps
 
 	# install docker in arch linux
 
