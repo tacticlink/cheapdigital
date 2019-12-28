@@ -2,6 +2,8 @@
 
 #### We know all this becuase of internet, but we want to know how.
 
+[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+
 Internet bring fierce competition, under competition, people instincly reflect is to increase their business quality, we will discuss what product/service qualities involved, basiclly, people who knows customer better,can use this knowledge to improve their business, we will suppose he has competition advantages, so knowing customers better equal to competition advantages, remember this work under free market condition,so we pursue digital in order to know our customer better, how to achieve?
 
 Digital comes with how to use data,we will provide a playbook. That means the goal of digital is to know customers better, the routine is through data, how data works? it is through data and event pair,data mainly comes from your website and ERP,the event comes everytime your company want to promote, that is where your sale team work for, that is also where innovative exist for.
