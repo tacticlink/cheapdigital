@@ -13,7 +13,7 @@ As a developer, you need to work localy before you delivery your work to your cu
 - [Raspbian as a Desktop](https://github.com/tacticlink/cheapdigital/blob/master/dev/raspbian-desktop.md)
 - [Developing/Demo Server](https://github.com/tacticlink/cheapdigital/blob/master/dev/demo-server.md)
 
-### infrastructure
+### Structure
 
 #### Cloud Server
 
