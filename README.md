@@ -4,7 +4,7 @@
 
 
 
-The intention of this project is to develope a low price Open Source ERP Odoo by yourself or by limited supports. 
+The intention of this project is to develope a low price Open Source ERP Odoo by yourselves or by limited supports. 
 
 ### An Environment for developing
 
