@@ -15,8 +15,10 @@ As a developer, you need to work localy before you delivery your work to your cu
 
 ### Structure
 
-#### Cloud Server
+You need to [decide your business go cloud or not.]()
 
-#### Docker
+First we need to create a cloud account, requirments vary accourding to different cloud venders,the underlying component for our application is Linux Operating Systems, it is mostly same, the main factor is price. The main cloud vendors is our choices.
 
-#### Odoo
+The main cloud vendor option list AWS,Google Cloud, Digitalocean, Linode.
+
+After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating System,then install docker inside, pull Odoo image, run Odoo container,that is it.
