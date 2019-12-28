@@ -8,6 +8,8 @@ The intention of this project is to develope a low price Open Source ERP like Od
 
 As a developer, you need to work localy before you delivery your work to your customer,we use Pi 3 B+ as our desktop computer.
 
+[]()
+
 ### infrastructure
 
 #### Cloud Server
