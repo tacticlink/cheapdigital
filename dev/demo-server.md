@@ -1,5 +1,7 @@
 ## Developing/Demo Server
 
+[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+
 We need to login cloud server as well as local developing/demo server, the mechanism are same by login with SSH terminal from desktop computer. we choose arch linux run in a USB drive. I use a Sandisk Cruze 8GB USB drive.
 
 I follow the tutorials:
