@@ -1,8 +1,11 @@
 ## Install docker with scripts
 
+[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+
 - Step1: Copy the scripts,make a new file named 'docker.sh'
 - Step2: Make the newly created file excutable.
 - Step3: Run scripts.
+
 
 	# or install on Ubuntu Linux with scripts
 
