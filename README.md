@@ -26,3 +26,12 @@ After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating 
 [The Cloud Vendor guide]()
 
 [The Steps towards to an Odoo application.](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications.md)
+
+### How To Use Data
+
+[Create A Google Analytics Account]()
+
+[Acquir The Google Analytics Tracking Number]()
+
+#### ERP Getstart
+
