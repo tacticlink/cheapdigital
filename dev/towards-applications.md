@@ -2,7 +2,7 @@
 
 We will install applications to a cloud server, first we install docker onto a Ubuntu Linux, then deploy application container up on it. 
 
-Assuming, you have [decided to use a cloud service]() and [open a cloud account](),
+Assuming, you have [decided to use a cloud service](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md) and [open a cloud account](),
 
 To install docker on Ubuntu Linux server follow the tutorial from docker documentation, or [install docker by scrips](https://github.com/tacticlink/cheapdigital/blob/master/dev/install-docker.md).
 
