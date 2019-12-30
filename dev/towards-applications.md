@@ -4,7 +4,7 @@ We will install applications to a cloud server, first we install docker onto a U
 
 Assuming, you have [decided to use a cloud service]() and [open a cloud account](),
 
-To install docker on Ubuntu Linux server follow the tutorial from docker documentation, or [install docker by scrips]().
+To install docker on Ubuntu Linux server follow the tutorial from docker documentation, or [install docker by scrips](https://github.com/tacticlink/cheapdigital/blob/master/dev/install-docker.md).
 
 	# After docker instllation, pull odoo image
 
