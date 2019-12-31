@@ -4,7 +4,7 @@
 
 We pursue digital,because digital lead the way to data usage, data help us to understand our customers better to increase our competitiveness, so as we can survive. [Why we pursue digitalization?](https://github.com/tacticlink/cheapdigital/blob/master/basis/pursue-digital.md)
 
-The intention of this project is to develope a low price Open Source ERP Odoo by yourselves or by limited supports. 
+The intention of this project is to develope a low price Open Source ERP Odoo by yourselves. 
 
 ### An Environment for developing
 
