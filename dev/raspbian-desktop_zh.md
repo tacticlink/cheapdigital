@@ -11,3 +11,5 @@
 - 充電寶做不間斷電源（UPS)。
 
 在樹黴派的下載頁上，會看見3個選項，with desktop and sofwares 對於Pi 3 B+來說太重，選image with desktop 或者 image with Rasbian比較好。
+
+由此，一台樹黴派Pi 3 B+桌上型電腦可以使用了。
