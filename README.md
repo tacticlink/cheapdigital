@@ -6,14 +6,14 @@ We pursue digital,because digital lead the way to data usage, data help us to un
 
 The intention of this project is to develope a low price Open Source ERP Odoo by yourselves. 
 
-### An Environment for developing
+## An Environment for developing
 
 As a developer, you need to work localy before you delivery your work to your customer,we use Pi 3 B+ as our desktop computer.
 
 - [Raspbian as a Desktop](https://github.com/tacticlink/cheapdigital/blob/master/dev/raspbian-desktop.md)
 - [Developing/Demo Server](https://github.com/tacticlink/cheapdigital/blob/master/dev/demo-server.md)
 
-### Structure
+## Structure
 
 You need to [decide whether your business go cloud or not.](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md)
 
@@ -27,7 +27,7 @@ After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating 
 
 [The Steps towards to an Odoo application.](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications.md)
 
-### How To Use Data
+## How To Use Data
 
 [Create A Google Analytics Account]()
 
