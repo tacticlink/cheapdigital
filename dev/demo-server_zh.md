@@ -49,6 +49,6 @@ http://ftp.labdoo.org/download/Public/manuals/wiki.lxde.org/en/Installation.html
 
 	# Remark: 9876 is your port number, you can select port number as you like.  
 
-Final step, open your web browser, access odoo with
+打開瀏覽器，訪問Odoo
 
-http://localhost:9876
+	http://localhost:9876
