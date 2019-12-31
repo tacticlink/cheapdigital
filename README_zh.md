@@ -8,4 +8,6 @@
 
 ## 開發者桌上型電腦與演示伺服器
 
+- [樹黴派做桌上型電腦](https://github.com/tacticlink/cheapdigital/blob/master/dev/raspbian-desktop_zh.md)
+
 
