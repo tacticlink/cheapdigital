@@ -11,6 +11,10 @@
 - [樹黴派做桌上型電腦](https://github.com/tacticlink/cheapdigital/blob/master/dev/raspbian-desktop_zh.md)
 - [演示伺服器](https://github.com/tacticlink/cheapdigital/blob/master/dev/demo-server_zh.md)
 
+## 通往方案之路
+
+我們的方案建在雲伺服器上，以寬帶網絡連接。 [我的公司是否把應用建在雲上](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud_zh.md)
+
 ## Structure
 
 All applications will be depoyed on a cloud server, that rise questions: what Cloud is? Should I adopt cloud? You need to [decide whether your business go cloud or not.](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md)
