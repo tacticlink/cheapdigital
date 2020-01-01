@@ -34,6 +34,3 @@ After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating 
 [Create A Google Analytics Account]()
 
 [Analyses Your Website With Google Analytics Tracking Number]()
-
-#### ERP Getstart
-
