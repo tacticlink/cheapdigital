@@ -15,6 +15,9 @@
 
 我們的方案建在雲伺服器上，以寬帶網絡連接。 [我的公司是否把應用建在雲上](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud_zh.md)
 
+[如何選擇雲](https://github.com/tacticlink/cheapdigital/blob/master/basis/cloud-guide_zh.md)
+
+[安裝嚮導](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications_zh.md)
 ## Structure
 
 All applications will be depoyed on a cloud server, that rise questions: what Cloud is? Should I adopt cloud? You need to [decide whether your business go cloud or not.](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md)
