@@ -18,16 +18,3 @@
 [如何選擇雲](https://github.com/tacticlink/cheapdigital/blob/master/basis/cloud-guide_zh.md)
 
 [安裝嚮導](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications_zh.md)
-## Structure
-
-All applications will be depoyed on a cloud server, that rise questions: what Cloud is? Should I adopt cloud? You need to [decide whether your business go cloud or not.](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md)
-
-First we need to create a cloud account, requirments vary accourding to different cloud venders,the underlying component for our application is Linux Operating Systems, it is mostly same, the main factor is price. The main cloud vendors is our choices.
-
-The main cloud vendor option list AWS,Google Cloud, Digitalocean, Linode.
-
-After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating System,then install docker inside, pull Odoo image, run Odoo container,that is it.
-
-[The Cloud Vendor guide](https://github.com/tacticlink/cheapdigital/blob/master/basis/cloud-guide.md)
-
-[The Steps towards to an Odoo application.](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications.md)
