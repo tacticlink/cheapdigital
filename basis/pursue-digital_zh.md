@@ -1,5 +1,7 @@
 ## 為什麼要追求數字化
 
+[English](https://github.com/tacticlink/cheapdigital)  [繁體中文首頁](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
+
 internet使競爭加劇，在自由競爭的商業環境中，人們通常首先想到提高產品或服務質量，即便從防守角度考慮，這對生存也是必要的。數據幫助我們更好了解消費者，而更好了解消費者有更好的機會改進提高產品質量，所以，認識消費者就意味著競爭優勢， 如何才能將數據轉化為競爭優勢呢？
 
 典型的數據運用範例來自於網站與行銷活動結合， 消費者的數據，
