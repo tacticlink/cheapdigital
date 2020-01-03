@@ -10,35 +10,35 @@
 - Ubuntu apt-get, $ sudo apt-get update && apt-get install docker.io
 - [從scripts自動安裝](https://github.com/tacticlink/cheapdigital/blob/master/dev/install-docker.md)。
 
-# 安裝docker之後， pull odoo 11.0 image
+      # 安裝docker之後， pull odoo 11.0 image
 
-pull odoo:11.0
+      pull odoo:11.0
 
-pull postgres:10
+      pull postgres:10
 
-# run odoo 11 docker container
+      # run odoo 11 docker container
 
-## run database container
+      ## run database container
 
-docker run -d \
---restart always \
--e POSTGRES_USER=odoo \
--e POSTGRES_PASSWORD=odoo \
--e POSTGRES_DB=postgres \
---name odoodb \
-postgres:10
+      docker run -d \
+      --restart always \
+      -e POSTGRES_USER=odoo \
+      -e POSTGRES_PASSWORD=odoo \
+      -e POSTGRES_DB=postgres \
+      --name odoodb \
+      postgres:10
 
-## run odoo container
+      ## run odoo container
 
-docker run \
---restart always \
--v $(PWD)/addons:/mnt/extra-addons \
--p 9876:8069 \
---name odooapp \
---link odoodb:db \
--t odoo:11.0
+      docker run \
+      --restart always \
+      -v $(PWD)/addons:/mnt/extra-addons \
+      -p 9876:8069 \
+      --name odooapp \
+      --link odoodb:db \
+      -t odoo:11.0
 
-# Remark: 9876 是對應8069的端口號，用來訪問。
-$(PWD)/addons 對應默認目錄下用於放置定制模塊的目錄
+      # Remark: 9876 是對應8069的端口號，用來訪問。
+      $(PWD)/addons 對應默認目錄下用於放置定制模塊的目錄
 
 # 訪問應用：http://IP:9876
