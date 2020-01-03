@@ -1,6 +1,6 @@
 ## 安裝ERP
 
-[Home](https://github.com/tacticlink/cheapdigital)
+[English](https://github.com/tacticlink/cheapdigital) [繁體中文首頁](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
 
 應用軟體安裝在雲伺服器上，假定，你已經[決定創建雲計算賬戶](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud_zh.md)，把數字化應用放在雲伺服器上。 [已開立雲賬戶]()。
 
