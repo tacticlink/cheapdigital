@@ -17,7 +17,7 @@ Meanwhile, you need a Demo server as well, to demo/develop what you want to achi
 
 ## Structure
 
-All applications will be depoyed on a cloud server, that rise questions: what Cloud is? Should I adopt cloud? You need to [decide whether your business go cloud or not.](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md)
+All applications will be depoyed on a cloud server, that rise questions: what Cloud is? Should I adopt cloud? First of all, you need to [decide whether your business go cloud or not.](https://github.com/tacticlink/cheapdigital/blob/master/basis/go-cloud.md)
 
 First we need to create a cloud account, requirments vary accourding to different cloud venders,the underlying component for our application is Linux Operating Systems, it is mostly same, the main factor is price. The main cloud vendors is our choices.
 
