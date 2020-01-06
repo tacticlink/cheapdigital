@@ -21,16 +21,8 @@ All applications will be depoyed on a cloud server, that rise questions: what Cl
 
 First we need to create a cloud account, requirments vary accourding to different cloud venders,the underlying component for our application is Linux Operating Systems, it is mostly same, the main factor is price. The main cloud vendors is our choices.
 
-The main cloud vendor option list AWS,Google Cloud, Digitalocean, Linode.
-
 After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating System,then install docker inside, pull Odoo image, run Odoo container,that is it.
 
 [The Cloud Vendor guide](https://github.com/tacticlink/cheapdigital/blob/master/basis/cloud-guide.md)
 
 [The Steps towards to an Odoo application.](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications.md)
-
-## How To Use Data
-
-[Create A Google Analytics Account]()
-
-[Analyses Your Website With Google Analytics Tracking Number]()
