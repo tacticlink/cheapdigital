@@ -14,7 +14,7 @@
 
 在樹黴派的下載頁上，會看見3個選項，with desktop and sofwares 對於Pi 3 B+來說太重，選image with desktop 或者 image with Rasbian比較好。
 
-#### 選image with desktop 
+##### image with desktop 
 
 	# you will need to install applications, for example, install my favorite text exditor 'gedit' 
 
@@ -23,7 +23,7 @@
 	$ sudo apt install gedit
 
 
-#### 選image with Rasbian Lite
+##### image with Rasbian Lite
 
 	# you need to install desktop and applications
 
