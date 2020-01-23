@@ -1,8 +1,7 @@
 ## Why we pursue digital
 
 #### We know all this becuase of internet, but we want to know how.
-
-[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+[English](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 Internet bring fierce competition, under competition, people instincly reflect is to increase their business quality, we will discuss what product/service qualities involved, basiclly, people who knows customer better,can use this knowledge to improve their business, we will suppose he has competition advantages, so knowing customers better equal to competition advantages, remember this work under free market condition,so we pursue digital in order to know our customer better, how to achieve?
 
