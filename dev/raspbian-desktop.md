@@ -1,6 +1,6 @@
 ## Raspbian as a Desktop
 
-[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+[English Home](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 We recommand Linux, Raspbain, as we used in our work, as your desktop. Being a developer, to deliver a cloud server to customer,you need a SSH Terminal,  as well as a web browser for minimum.
 
