@@ -1,6 +1,6 @@
 ## 演示伺服器
 
-[English](https://github.com/tacticlink/cheapdigital) [繁體中文首頁](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
+[繁體中文首頁](https://github.com/tacticlink/cheapdigital)  [English](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 模擬雲伺服器需要一個本地伺服器，同時，演示伺服器兼做開發伺服器用。雲伺服器假設運行Ubuntu Linux與本地伺服器上運行的Arch Linux在安裝了docker之後，命令相同，本地演示/開發伺服器用Arch Linux， 選擇安裝在USB Drive上，使用Sandisk Cruz 8GB USB。
 
