@@ -1,6 +1,6 @@
 ## 為什麼要使用雲
 
-[English](https://github.com/tacticlink/cheapdigital) [繁體中文首頁](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
+[繁體中文首頁](https://github.com/tacticlink/cheapdigital)  [English](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 這裡所說的雲，是指遠方伺服器，伺服器不在身旁，需要靠SSH登錄。與伺服器的聯繫依靠寬帶網絡。在雲之前的一代稱為'Client/Server'，在院牆內使用， 雲相當於把Client/Server 搬到遠處，以IP聯絡，安裝程序訪問程序都是憑藉IP，稱遠方伺服器為雲。云有其他特性，比如可以按最小單位任意分割。
 
