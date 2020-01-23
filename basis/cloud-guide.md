@@ -1,5 +1,7 @@
 ## Which Cloud Shall I Choose?
 
+[English Home](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
+
 The cloud become a big business, the cloud vendors give their products different terms, we will maintain the simplicty in order to keep our solution low priced, we will use cloud server only, to install Ubuntu Linux on it, then we will install docker up on Ubuntu Linux,then pull odoo image, finally we will run odoo container to launch the application. 
 
 ### Price Matters
