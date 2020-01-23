@@ -1,6 +1,6 @@
 ## 該選哪家雲？
 
-[English](https://github.com/tacticlink/cheapdigital) [繁體中文首頁](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
+[繁體中文首頁](https://github.com/tacticlink/cheapdigital)  [English](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 雲計算通常以玄異名稱混淆認知，為簡便起見，我們只用雲伺服器。
 
