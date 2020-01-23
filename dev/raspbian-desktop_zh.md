@@ -1,6 +1,6 @@
 ## 樹黴派做桌上型電腦
 
-[English](https://github.com/tacticlink/cheapdigital) [繁體中文首頁](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
+[繁體中文首頁](https://github.com/tacticlink/cheapdigital)  [English](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 工作流程是從桌上電腦登錄雲伺服器，在雲伺服器上安裝docker，在docker之上運行Odoo container。所以必須有SSH Terminal，Web Browser。
 
