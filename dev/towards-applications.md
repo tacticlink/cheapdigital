@@ -1,6 +1,6 @@
 ## Road to Applications
 
-[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+[English Home](https://github.com/tacticlink/cheapdigital/blob/master/README_en.md)
 
 We will install applications to a cloud server, first we install docker onto a Ubuntu Linux, then deploy application container up on it. 
 
