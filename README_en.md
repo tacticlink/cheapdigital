@@ -1,6 +1,6 @@
 # Cheap Digital  
 
-[繁體中文](https://github.com/tacticlink/cheapdigital/blob/master/README_zh.md)
+[繁體中文](https://github.com/tacticlink/cheapdigital)
 
 We pursue digital,because digital lead the way to data usage, data help us to understand our customers better to increase our competitiveness, so as we can survive. Read more about [Why we pursue digitalization?](https://github.com/tacticlink/cheapdigital/blob/master/basis/pursue-digital.md)
 
