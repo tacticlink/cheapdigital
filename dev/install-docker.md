@@ -1,6 +1,6 @@
 ## Install docker with scripts
 
-[Home](https://github.com/tacticlink/cheapdigital/blob/master/README.md)
+[繁體中文首頁](https://github.com/tacticlink/cheapdigital)  
 
 - Step1: Copy the scripts,make a new file named 'docker.sh'
 - Step2: Make the newly created file excutable.
