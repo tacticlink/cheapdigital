@@ -6,7 +6,7 @@
 
 ## 開發者桌上型電腦與演示伺服器
 
-- [樹黴派做桌上型電腦](https://github.com/tacticlink/cheapdigital/blob/master/dev/raspbian-desktop_zh.md)
+- [樹黴派做桌上型電腦](https://github.com/tacticlink/cheapdigital/wiki/pi-desktop)
 - [演示伺服器](https://github.com/tacticlink/cheapdigital/blob/master/dev/demo-server_zh.md)
 
 ## 通往方案之路
