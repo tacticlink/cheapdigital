@@ -44,4 +44,4 @@ After we choose cloud vendor, we need to select 'Ubuntu Linux' as our Operating 
 
 [The Cloud Vendor guide](https://github.com/tacticlink/cheapdigital/blob/master/basis/cloud-guide.md)
 
-[The Steps towards to an Odoo application.](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications.md)
+[The Steps towards an Odoo application.](https://github.com/tacticlink/cheapdigital/blob/master/dev/towards-applications.md)
